@@ -1118,6 +1118,7 @@ Checkout my [list of management resources](https://github.com/charlax/engineerin
 
 The best way to learn is to learn by doing.
 
+- [LabEx - Learn Linux by Doing](https://labex.io/learn/linux)
 - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch
   - Richard Feynman: "what I cannot create, I do not understand"
@@ -1459,6 +1460,7 @@ Richard Feynman's Learning Strategy:
 - [Welcome to Linux command line for you and me!](https://lym.readthedocs.io/en/latest/index.html)
 - [Linux Performance](https://www.brendangregg.com/linuxperf.html), Brendan Gregg
 - [Linux disk I/O diagram](https://zenodo.org/records/15234151)
+- [LabEx - Learn Linux by Doing](https://labex.io/learn/linux)
 
 ### Low-code/no-code
 
